@@ -1,9 +1,6 @@
 # hello
 
 
-fdgyj
 
-hjhjgh
-fgfgf
-tg
-ttht
+my name is mohammad
+and my age is 22
